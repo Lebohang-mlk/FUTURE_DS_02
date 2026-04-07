@@ -1,3 +1,4 @@
+<img width="1853" height="790" alt="Screenshot 2026-04-01 220853" src="https://github.com/user-attachments/assets/4a21740b-313f-4793-bcd5-49364e8c00ae" />
 # FUTURE_DS_02
 Customer Retention &amp; Churn Analysis (Excel Dashboard) 
 📌 Project Overview  This project focuses on analyzing customer churn and retention patterns using Excel. The goal was to identify key drivers of customer churn and uncover insights that can help improve customer retention and business performance.
